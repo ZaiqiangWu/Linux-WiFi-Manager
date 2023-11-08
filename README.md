@@ -1,4 +1,5 @@
-# Bash Script for Connecting to Wi-Fi
+
+   # Bash Script for Connecting to Wi-Fi
 
 A simple Bash script for connecting to a Wi-Fi network using the command line. This script is designed to work on Linux systems with NetworkManager and nmcli.
 
@@ -34,3 +35,6 @@ Before using this script, ensure that the following prerequisites are met:
 4. to run this script
    ```bash
    ./connect wifi simple programe.sh
+<p align="center">
+<img src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/bannerbox.gif" width="400" heigth="400"  />
+</p>
