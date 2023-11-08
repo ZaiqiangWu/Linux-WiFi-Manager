@@ -36,5 +36,5 @@ Before using this script, ensure that the following prerequisites are met:
    ```bash
    ./connect wifi simple programe.sh
 <p align="center">
-<img src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/bannerbox.gif" width="400" heigth="400"  />
+<img src="https://github.com/kanchana66/kanchana66/blob/main/resources/banner1.3.gif"  />
 </p>
