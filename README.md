@@ -7,10 +7,10 @@ A simple Bash script for connecting to a Wi-Fi network using the command line. T
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
+<!--- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Author](#author)
+- [Author](#author)-->
 
 ## Introduction
 
@@ -27,7 +27,10 @@ Before using this script, ensure that the following prerequisites are met:
 
 1. Download the script to your local machine. You can do this by clicking the "Download ZIP" option from the GitHub repository or by cloning the repository.
 
-2. Make the script executable by running the following command in the terminal:
+3. Make the script executable by running the following command in the terminal:
 
    ```bash
-   chmod +x connect_wifi.sh
+   chmod +x "connect wifi simple programe.sh"
+4. to run this script
+   ```bash
+   ./connect wifi simple programe.sh
