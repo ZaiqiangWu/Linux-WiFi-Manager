@@ -35,6 +35,4 @@ Before using this script, ensure that the following prerequisites are met:
 4. to run this script
    ```bash
    ./connect wifi simple programe.sh
-<p align="center">
-<img src="https://github.com/kanchana66/kanchana66/blob/main/resources/banner1.3.gif"  />
-</p>
+
