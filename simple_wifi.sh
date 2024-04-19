@@ -3,7 +3,9 @@
 # Function to display available Wi-Fi SSIDs
 list_wifi_networks() {
   echo "Available Wi-Fi Networks:"
-  nmcli dev wifi list
+  sudo nmcli dev wifi rescan
+  sudo nmcli dev wifi list
+
 }
 
 # Function to connect to a Wi-Fi network
